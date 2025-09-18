@@ -31,7 +31,7 @@
 
 ### 🔹 [Amazon Project](https://github.com/alijamshidy/amazon-project)
 پروژه‌ای برای شبیه‌سازی فروشگاه آنلاین آمازون  
-**استفاده شده:** React, Redux, REST API, Docker  
+**استفاده شده:** HTML, CSS, javaScript  
 
 ### 🔹 [Atlas Front](https://github.com/alijamshidy/atlas-front)
 پروژه‌ی فرانت‌اند برای مدیریت داده‌ها  
