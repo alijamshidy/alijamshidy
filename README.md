@@ -1,13 +1,18 @@
-# 👋 سلام! من علی جمشیدی
+# 👋 سلام! من علی جمشیدی | Hi! I'm Ali Jamshidy
 
 💻 یک **Full-Stack Developer** هستم با تمرکز اصلی روی توسعه‌ی **Front-End** (React, React Native, Next.js) و تجربه در پیاده‌سازی **Back-End** با **Python** و **REST API**.  
 🚀 علاقه‌مند به یادگیری مداوم، حل مسائل واقعی و ساخت اپلیکیشن‌هایی هستم که تأثیرگذار و کاربردی باشن.  
-✨ از کار روی پروژه‌های **Open Source** و همکاری تیمی لذت می‌برم.
-
+✨ از کار روی پروژه‌های **Open Source** و همکاری تیمی لذت می‌برم.  
 
 ---
 
-## 🚀 مهارت‌ها
+💻 I'm a **Full-Stack Developer** with a strong focus on **Front-End development** (React, React Native, Next.js) and hands-on experience in **Back-End** using **Python** and **REST APIs**.  
+🚀 Passionate about continuous learning, solving real-world problems, and building impactful, user-friendly applications.  
+✨ I truly enjoy contributing to **Open Source** projects and collaborating with teams to bring ideas to life.  
+
+---
+
+## 🚀 مهارت‌ها | Skills
 
 ### Front-End & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,31 +34,32 @@
 
 ---
 
-## 📌 پروژه‌های شاخص
+## 📌 پروژه‌های شاخص | Featured Projects
 
 ### 🔹 [Amazon Project](https://github.com/alijamshidy/amazon-project)
 پروژه‌ای برای شبیه‌سازی فروشگاه آنلاین آمازون  
-**استفاده شده:** HTML, CSS, javaScript  
+**استفاده شده | Used:** React, Redux, REST API, Docker  
 
 ### 🔹 [Atlas Front](https://github.com/alijamshidy/atlas-front)
 پروژه‌ی فرانت‌اند برای مدیریت داده‌ها  
-**استفاده شده:** React, TypeScript, Axios  
+**استفاده شده | Used:** React, TypeScript, Axios  
 
 ---
 
-## 📊 آمار گیت‌هاب
+## 📊 آمار گیت‌هاب | GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alijamshidy&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijamshidy&layout=compact&theme=radical)
 
 ---
 
-## 📫 ارتباط با من
+## 📫 ارتباط با من | Contact Me
 
-- ✉️ ایمیل: `alijamshidy.1383@gmail.com`
-- 💼 لینکدین: [LinkedIn]()
-- 🌐 وبسایت/نمونه‌کار: [Website]()
+- ✉️ ایمیل: `ایمیلت رو اینجا بذار`
+- 💼 LinkedIn: [لینک پروفایل لینکدینت]
+- 🌐 Website/Portfolio: [لینک وبسایتت]
 
 ---
 
-✨ همیشه در حال یادگیری و ساخت چیزهای جدید هستم. خوشحال می‌شم باهام ارتباط بگیری!
+✨ همیشه در حال یادگیری و ساخت چیزهای جدید هستم. خوشحال می‌شم باهام ارتباط بگیری!  
+✨ Always learning and building new things — feel free to connect with me!
