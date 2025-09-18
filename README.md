@@ -56,8 +56,8 @@
 ## 📫 ارتباط با من | Contact Me
 
 - ✉️ Email/ایمیل: `alijamshidy.1383@gmail.com`
-- 💼 LinkedIn: [لینک پروفایل لینکدینت]
-- 🌐 Website/Portfolio: [لینک وبسایتت]
+- 💼 LinkedIn: []
+- 🌐 Website/Portfolio: []
 
 ---
 
