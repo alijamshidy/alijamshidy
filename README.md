@@ -58,6 +58,7 @@
 - ✉️ Email/ایمیل: `alijamshidy.1383@gmail.com`
 - 💼 LinkedIn: []
 - 🌐 Website/Portfolio: []
+- 📱 Telegram: [@alijim83](https://t.me/alijim83)
 
 ---
 
