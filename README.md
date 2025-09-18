@@ -34,7 +34,7 @@
 
 ---
 
-## 📌 پروژه‌های شاخص | Featured Projects
+## 📌 پروژه‌ها | Featured Projects
 
 ### 🔹 [Amazon Project](https://github.com/alijamshidy/amazon-project)
 پروژه‌ای برای شبیه‌سازی فروشگاه آنلاین آمازون  
