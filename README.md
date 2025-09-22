@@ -6,7 +6,7 @@
 
 ---
 
-💻 I'm a **Full-Stack Developer** with a strong focus on **Front-End development** (React, React Native, Next.js) and hands-on experience in **Back-End** using **JavaScript**, **Python** and **REST APIs**.  
+💻 I'm a **Full-Stack Developer** with a strong focus on **Front-End development** (React, React Native, Next.js) and hands-on experience in **Back-End** using **JavaScript**, **Python** and **REST APIs**.   
 🚀 Passionate about continuous learning, solving real-world problems, and building impactful, user-friendly applications.  
 ✨ I truly enjoy contributing to **Open Source** projects and collaborating with teams to bring ideas to life.  
 
