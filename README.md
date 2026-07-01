@@ -1,75 +1,175 @@
-# 👋 سلام! من علی جمشیدی | Hi! I'm Ali Jamshidy
+<div align="center">
 
-💻 یک **Full-Stack Developer** هستم با تمرکز اصلی روی توسعه‌ی **Front-End** (React, React Native, Next.js) و تجربه در پیاده‌سازی **Back-End** با **JavaScript**, **Python** و **REST API**.  
-🚀 علاقه‌مند به یادگیری مداوم، حل مسائل واقعی و ساخت اپلیکیشن‌هایی هستم که تأثیرگذار و کاربردی باشن.  
-✨ از کار روی پروژه‌های **Open Source** و همکاری تیمی لذت می‌برم.  
+# Hi there 👋, I'm Ali Jamshidy
+
+### Full Stack JavaScript Developer
+
+Building scalable web applications with **Next.js**, **Node.js**, and **TypeScript**.
+
+<p>
+  <a href="https://github.com/alijamshidy">
+    <img src="https://komarev.com/ghpvc/?username=alijamshidy&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-💻 I'm a **Full-Stack Developer** with a strong focus on **Front-End development** (React, React Native, Next.js) and hands-on experience in **Back-End** using **JavaScript**, **Python** and **REST APIs**.   
-🚀 Passionate about continuous learning, solving real-world problems, and building impactful, user-friendly applications.  
-✨ I truly enjoy contributing to **Open Source** projects and collaborating with teams to bring ideas to life.  
+## 🚀 About Me
+
+I'm a Full Stack JavaScript Developer passionate about building scalable, performant, and maintainable web applications.
+
+Currently, I'm focused on improving my skills in backend architecture, system design, and modern frontend technologies.
+
+- 💻 Full Stack JavaScript Developer
+- 🌱 Learning **System Design**, **Three.js**, and **React Three Fiber**
+- ⚡ Interested in **E-commerce**, **Backend Engineering**, and **SaaS**
+- 🎯 Always learning new technologies and best practices
 
 ---
 
+# 🛠 Tech Stack
 
+### Frontend
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alijamshidy" alt="alijamshidy" /></a> </p>
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
+</p>
 
-## 🚀 مهارت‌ها | Skills
+### Backend
 
-### Front-End & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,django" />
+</p>
 
-### Back-End
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Tools
 
-### Tools & Others
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,bun" />
+</p>
 
-<!-- Skills Icons -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+---
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+# 📌 Featured Projects
 
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+## 🛒 Multi Vendor Ecommerce
+
+A modern multi-vendor e-commerce platform built with Next.js and TypeScript.
+
+### Features
+
+- Authentication
+- Vendor Dashboard
+- Product Management
+- Shopping Cart
+- Responsive UI
+- Admin Panel
+
+**Tech**
+
+`Next.js` • `TypeScript` • `TailwindCSS` • `Node.js` • `MongoDB`
+
+🔗 https://github.com/alijamshidy/multi-vendor-ecommerce
+
+---
+
+## ⚙ Ecommerce Backend
+
+RESTful API powering an e-commerce application.
+
+### Features
+
+- JWT Authentication
+- Email OTP
+- Products
+- Categories
+- Orders
+- Users
+- Vendors
+
+**Tech**
+
+`Node.js` • `Express.js` • `MongoDB`
+
+🔗 https://github.com/alijamshidy/ecommerce-backend
+
+---
+
+## 🛍 Next.js Storefront
+
+A modern storefront application built with Next.js.
+
+### Features
+
+- Authentication
+- Product Catalog
+- Shopping Cart
+- Responsive Design
+
+**Tech**
+
+`Next.js` • `TypeScript`
+
+🔗 https://github.com/alijamshidy/nextJs_fullstack_storefront
+
+---
+
+## 🛒 Amazon Clone
+
+An Amazon-inspired e-commerce application built for learning full-stack development.
+
+🔗 https://github.com/alijamshidy/amazon-project
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alijamshidy&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijamshidy&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=alijamshidy&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- System Design
+- Clean Architecture
+- React Three Fiber
+- Three.js
+- Scalable Backend Development
+
+---
+
+# 📫 Connect With Me
+
+<p>
+<a href="https://github.com/alijamshidy">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<!-- Add your LinkedIn -->
+<!-- Add your Portfolio -->
+<!-- Add your Email -->
 
 </p>
 
 ---
 
-## 📌 پروژه‌ها | Featured Projects
+<div align="center">
 
-### 🔹 [Amazon Project](https://github.com/alijamshidy/amazon-project)
-پروژه‌ای برای شبیه‌سازی فروشگاه آنلاین آمازون  
-**استفاده شده | Used:** HTML, CSS, JavaScript  
+### Thanks for visiting! ⭐
 
-### 🔹 [Atlas Front](https://github.com/alijamshidy/atlas-front)
-پروژه‌ی فرانت‌اند برای مدیریت داده‌ها  
-**استفاده شده | Used:** React, TypeScript, Axios  
+If you like my work, consider giving a ⭐ to my repositories.
 
----
-
-## 📊 آمار گیت‌هاب | GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alijamshidy&show_icons=true&locale=en&layout=compact" alt="alijamshidy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alijamshidy&show_icons=true&locale=en&theme=radical" alt="alijamshidy" /></p>
-
----
+</div>
