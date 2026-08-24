@@ -6,11 +6,11 @@
 
 Building scalable web applications with **Next.js**, **Node.js**, and **TypeScript**.
 
-<p>
+<!-- <p>
   <a href="https://github.com/alijamshidy">
     <img src="https://komarev.com/ghpvc/?username=alijamshidy&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-</p>
+</p> -->
 
 </div>
 
