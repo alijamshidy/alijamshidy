@@ -92,7 +92,7 @@ RESTful API powering an e-commerce application.
 
 `Node.js` • `Express.js` • `MongoDB`
 
-🔗 https://github.com/alijamshidy/ecommerce-backend
+🔗 https://github.com/alijamshidy/nodejs-ecommerce-api
 
 ---
 
@@ -111,7 +111,7 @@ A modern storefront application built with Next.js.
 
 `Next.js` • `TypeScript`
 
-🔗 https://github.com/alijamshidy/nextJs_fullstack_storefront
+🔗 https://github.com/alijamshidy/nextjs-storefront
 
 ---
 
@@ -119,7 +119,31 @@ A modern storefront application built with Next.js.
 
 An Amazon-inspired e-commerce application built for learning full-stack development.
 
-🔗 https://github.com/alijamshidy/amazon-project
+**Tech**
+
+`HTML` • `CSS` • `JavaScript (ES6+)`
+
+🔗 https://github.com/alijamshidy/amazon-clone
+
+---
+
+## 🌐 MERNCAMP — Social Network (Full Stack)
+
+A social network built by devs for devs: real-time news feed, rich-text posting with images, likes, comments, and follow/unfollow.
+
+### Features
+
+- Real-time feed with **Socket.IO**
+- Rich-text posts with image upload
+- Likes, comments, follow/unfollow
+- JWT authentication with role-based access (User / Admin)
+
+**Tech**
+
+`Next.js 15` • `React 18` • `Tailwind CSS 4` • `Ant Design` • `Node.js` • `Express 5` • `MongoDB` • `Socket.IO`
+
+🔗 Frontend: https://github.com/alijamshidy/merncamp-client
+🔗 Backend: https://github.com/alijamshidy/merncamp-server
 
 ---
 
@@ -157,11 +181,15 @@ An Amazon-inspired e-commerce application built for learning full-stack developm
 <a href="https://github.com/alijamshidy">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-<!-- Add your LinkedIn -->
-<!-- Add your Portfolio -->
-<!-- Add your Email -->
-
+<a href="https://www.linkedin.com/in/alijamshidy">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:alijamshidy@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://alijamshidy.github.io/my-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-alijamshidy.dev-0e75b6?style=for-the-badge" alt="Portfolio" />
+</a>
 </p>
 
 ---
